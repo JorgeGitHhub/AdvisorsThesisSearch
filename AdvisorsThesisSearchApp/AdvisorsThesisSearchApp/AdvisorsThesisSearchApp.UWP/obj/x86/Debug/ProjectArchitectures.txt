@@ -1,0 +1,4 @@
+H:\UnachApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp.Core\AdvisorsThesisSearchApp.Core.csproj;neutral
+H:\UnachApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp.Core\AdvisorsThesisSearchApp.Core.csproj;neutral
+H:\UnachApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp.UWP\AdvisorsThesisSearchApp.UWP.csproj;x86
+H:\UnachApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp\AdvisorsThesisSearchApp.Views.csproj;neutral

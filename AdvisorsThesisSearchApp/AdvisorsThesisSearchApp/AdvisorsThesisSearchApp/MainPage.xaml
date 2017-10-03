@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:AdvisorsThesisSearchApp"
+             xmlns:ViewModel="clr-namespace:AdvisorsThesisSearchApp.Core.ViewModels;assembly=AdvisorsThesisSearchApp.Core"
+             x:Class="AdvisorsThesisSearchApp.MainPage">
+
+    <ContentPage.BindingContext>
+        <ViewModel:MainViewModel />
+    </ContentPage.BindingContext>
+
+    
+    
+    <StackLayout>
+        <Label Text="AdvisorsThesisSearchApp" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+        <Button Text="Buscar" Command="{Binding InsertarPersonasCommand}" />
+    </StackLayout>
+</ContentPage>
